@@ -41,7 +41,7 @@ TextLabel_2.BackgroundColor3 = Color3.fromRGB(77, 77, 77)
 TextLabel_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.Size = UDim2.new(0, 216, 0, 20)
 TextLabel_2.Font = Enum.Font.SourceSans
-TextLabel_2.Text = "Fu Kang Hub V2"
+TextLabel_2.Text = "Fu Kang Hub"
 TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.TextSize = 14.000
 
